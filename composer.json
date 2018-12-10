@@ -1,5 +1,5 @@
 {
-    "name": "adesigns/spatialite"
+    "name": "adesigns/spatialite",
     "require": {
         "doctrine/orm":"~2.2,>=2.2.3"
     },
